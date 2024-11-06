@@ -1,0 +1,9 @@
+#root li .edit {
+    display: none
+}
+#root li.editing .edit {
+    display: inline
+}
+#root li.editing .view {
+    display: none
+}

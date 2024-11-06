@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.grayscale {
+  filter: grayscale(100%)
+}
+
+.sepia {
+  filter: sepia(100%)
+}
+
+.blur {
+  filter: blur(1px)
+}
+
+.gb {
+  filter: grayscale() blur(1px)
+}
+
+.invert {
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
