@@ -4,7 +4,7 @@
 
 **Frontend:**
 - HTML & CSS
-- JavaScript: Using frameworks such as Vue.js and React to create interactive user interfaces.
+- JavaScript: Using frameworks such as Vue, React and next.js to create interactive user interfaces.
 - TypeScript (Vue)
 
 **Backend:**
