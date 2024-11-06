@@ -1,5 +1,7 @@
 # Portfolio
 
+Hello, I'm Nina! I’m currently a student at FH OÖ Campus Hagenberg, studying  Media Technologies & Design, seeking hands-on experience to further develop my skills in the field.
+
 ### Technical Skills
 
 **Frontend:**
